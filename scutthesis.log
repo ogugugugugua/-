@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.5)  6 OCT 2021 13:33
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.5)  7 OCT 2021 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -474,7 +474,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box101
 )
 Package caption Info: Option `figurename' requires the `newfloat' package on in
-put line 174.
+put line 175.
 
 (c:/texlive/2021/texmf-dist/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
@@ -1269,9 +1269,7 @@ Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
 =0.167;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
- [1
 
-]
 (./scutthesis.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1287,13 +1285,13 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 1.
 
 (c:/texlive/2021/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-))
+) [1
+
+])
 \tf@toc=\write5
 \openout5 = `scutthesis.toc'.
 
- [2
-
-]
+ [2]
 第\CJKnumber {1}章 1.
 [1
 
@@ -1357,13 +1355,6 @@ File: figure/4-5.eps Graphic file (type eps)
 <figure/4-5.eps>
  [19] [20]
 第\CJKnumber {4}章 4.
-
-LaTeX Warning: Reference `F9' on page 21 undefined on input line 778.
-
-
-Package natbib Warning: Citation `21dai2017deformable' on page 21 undefined on 
-input line 778.
-
 [21
 
 ]
@@ -1371,207 +1362,51 @@ File: figure/F9.eps Graphic file (type eps)
 <figure/F9.eps>
 File: figure/F10.eps Graphic file (type eps)
 <figure/F10.eps>
-
-
-LaTeX Warning: Reference `F10' on page 22 undefined on input line 796.
-
-[22] [23]
+ [22] [23]
 File: figure/F11.eps Graphic file (type eps)
 <figure/F11.eps>
-
-
-LaTeX Warning: Reference `F11' on page 24 undefined on input line 811.
-
 File: figure/F12.png Graphic file (type bmp)
 <figure/F12.png>
-
-LaTeX Warning: Reference `F12' on page 24 undefined on input line 819.
-
-
-LaTeX Warning: Reference `equ2' on page 24 undefined on input line 819.
-
-[24]
-
-LaTeX Warning: Reference `equ3' on page 25 undefined on input line 824.
-
-
-LaTeX Warning: Reference `F13' on page 25 undefined on input line 830.
-
-
-LaTeX Warning: Reference `equ4' on page 25 undefined on input line 830.
-
-
-LaTeX Warning: Reference `equ4*' on page 25 undefined on input line 830.
-
+ [24]
 File: figure/F13.png Graphic file (type bmp)
 <figure/F13.png>
-[25]
-
-Package natbib Warning: Citation `35cai2018cascade' on page 26 undefined on inp
-ut line 863.
-
-
-LaTeX Warning: Reference `equ5' on page 26 undefined on input line 863.
-
-[26] [27]
+ [25] [26] [27]
 第\CJKnumber {5}章 5.
-
-LaTeX Warning: Reference `F5' on page 28 undefined on input line 878.
-
-
-LaTeX Warning: Reference `F6' on page 28 undefined on input line 878.
-
-
-LaTeX Warning: Reference `F5' on page 28 undefined on input line 878.
-
-
-LaTeX Warning: Reference `F6' on page 28 undefined on input line 878.
-
-
-LaTeX Warning: Reference `F5' on page 28 undefined on input line 878.
-
-
-LaTeX Warning: Reference `F6' on page 28 undefined on input line 878.
-
-
-LaTeX Warning: Reference `F5' on page 28 undefined on input line 878.
-
 File: figure/F5.png Graphic file (type bmp)
 <figure/F5.png>
 File: figure/F6.png Graphic file (type bmp)
 <figure/F6.png>
-
-LaTeX Warning: Reference `F29' on page 28 undefined on input line 894.
-
 [28
 
 ]
 File: figure/F29.eps Graphic file (type eps)
 <figure/F29.eps>
-
-
-Package natbib Warning: Citation `31周兵2018图像复杂度研究综述' on page 29 undefined on in
-put line 904.
-
-
-LaTeX Warning: Reference `F17' on page 29 undefined on input line 904.
-
-[29]
+ [29]
 File: figure/F17.eps Graphic file (type eps)
 <figure/F17.eps>
-
-
-LaTeX Warning: Reference `equ6' on page 30 undefined on input line 918.
-
-[30]
-
-LaTeX Warning: Reference `F18' on page 31 undefined on input line 923.
-
+ [30]
 File: figure/F18.png Graphic file (type bmp)
 <figure/F18.png>
-
-Package natbib Warning: Citation `34haralick1973textural' on page 31 undefined 
-on input line 933.
-
 File: figure/F19.png Graphic file (type bmp)
 <figure/F19.png>
-
-LaTeX Warning: Reference `F19' on page 31 undefined on input line 941.
-
-[31]
-
-LaTeX Warning: Reference `F20' on page 32 undefined on input line 943.
-
+ [31]
 File: figure/F20.png Graphic file (type bmp)
 <figure/F20.png>
-
-Package natbib Warning: Citation `39baraldi1995investigation' on page 32 undefi
-ned on input line 950.
-
-
-LaTeX Warning: Reference `equ8' on page 32 undefined on input line 952.
-
-[32]
-
-LaTeX Warning: Reference `equ9' on page 33 undefined on input line 957.
-
-
-LaTeX Warning: Reference `equ10' on page 33 undefined on input line 962.
-
-
-LaTeX Warning: Reference `equ11' on page 33 undefined on input line 967.
-
-
-Package natbib Warning: Citation `40高程程2010基于灰度共生矩阵的纹理特征提取' on page 33 undefine
-d on input line 972.
-
-[33]
+ [32] [33]
 File: figure/F21.png Graphic file (type bmp)
 <figure/F21.png>
 File: figure/F22.png Graphic file (type bmp)
 <figure/F22.png>
-
-
-LaTeX Warning: Reference `F21' on page 34 undefined on input line 1000.
-
-
-LaTeX Warning: Reference `F22' on page 34 undefined on input line 1000.
-
-
-LaTeX Warning: Reference `F5' on page 34 undefined on input line 1000.
-
-
-LaTeX Warning: Reference `F6' on page 34 undefined on input line 1000.
-
-[34]
-
-Package natbib Warning: Citation `41oleiwi2018alzheimer' on page 35 undefined o
-n input line 1006.
-
-
-Package natbib Warning: Citation `42vidyashanakara2018leaf' on page 35 undefine
-d on input line 1006.
-
+ [34]
 File: figure/F23.eps Graphic file (type eps)
 <figure/F23.eps>
-
-LaTeX Warning: Reference `F23' on page 35 undefined on input line 1013.
-
-
-LaTeX Warning: Reference `equ12' on page 35 undefined on input line 1013.
-
-[35]
-
-LaTeX Warning: Reference `F5' on page 36 undefined on input line 1024.
-
-
-LaTeX Warning: Reference `F6' on page 36 undefined on input line 1024.
-
-[36]
-
-Package natbib Warning: Citation `43钟宝江2016图像插值技术综述' on page 37 undefined on in
-put line 1026.
-
+ [35] [36]
 File: figure/F24.eps Graphic file (type eps)
 <figure/F24.eps>
-
-Package natbib Warning: Citation `44goodfellow2014generative' on page 37 undefi
-ned on input line 1033.
-
-
-LaTeX Warning: Reference `F24' on page 37 undefined on input line 1033.
-
-
-Package natbib Warning: Citation `45ledig2017photo' on page 37 undefined on inp
-ut line 1033.
-
-[37]
-
-LaTeX Warning: Reference `F25' on page 38 undefined on input line 1037.
-
+ [37]
 File: figure/F25.eps Graphic file (type eps)
 <figure/F25.eps>
-[38] [39]
+ [38] [39]
 第\CJKnumber {6}章 6.
 [40
 
@@ -1579,33 +1414,17 @@ File: figure/F25.eps Graphic file (type eps)
 
 ] (./scutthesis.bbl [43
 
-] [44] [45] [46])
-
-Package natbib Warning: There were undefined citations.
-
-[47] (./scutthesis.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `scutthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `scutthesis.out':
-(rerunfilecheck)             Before: 7266A0740697570F3D80FB8A6C8E8B48;2844
-(rerunfilecheck)             After:  91B71F4B3BC5415FF634C75ACA7D219F;4446.
+]) [44] (./scutthesis.aux)
+Package rerunfilecheck Info: File `scutthesis.out' has not changed.
+(rerunfilecheck)             Checksum: 83D8A52F943464B85963A81F4DD3B8BB;4581.
  ) 
 Here is how much of TeX's memory you used:
- 26753 strings out of 476493
- 483889 string characters out of 5820669
- 874217 words of memory out of 5000000
- 46739 multiletter control sequences out of 15000+600000
- 412584 words of font info for 101 fonts, out of 8000000 for 9000
+ 26598 strings out of 476493
+ 479085 string characters out of 5820669
+ 876026 words of memory out of 5000000
+ 46585 multiletter control sequences out of 15000+600000
+ 412576 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,17n,99p,2680b,792s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on scutthesis.pdf (57 pages).
+Output written on scutthesis.pdf (54 pages).

@@ -1,4 +1,4 @@
-\begin{thebibliography}{59}
+\begin{thebibliography}{18}
 \setlength{\itemsep}{1ex}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -6,344 +6,35 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[翁祖平 et al.(1993)]{qiqiu}
-翁祖平, 刘桂云, 马岚华.
-\newblock 小流域系留气球低空遥感初步试验研究[J].
-\newblock 中国水土保持, 1993, 11.
-
-\bibitem[孟执中 and 何正华(1989)]{FY-1}
-孟执中, 何正华.
-\newblock “风云一号” 气象卫星[J].
-\newblock 宇航学报, 1989, 3.
-
-\bibitem[刘斐 and 吕大旻(2013)]{GF-1}
-刘斐, 吕大旻.
-\newblock 我国成功发射高分一号卫星[J].
-\newblock 中国航天, 2013, 5:10--13.
-
-\bibitem[潘腾 et al.(2015)]{GF-2}
-潘腾, 关晖, 贺玮.
-\newblock “高分二号” 卫星遥感技术[J].
-\newblock 航天返回与遥感, 2015, 36(4):16--24.
-
-\bibitem[Padwick et al.(2010)]{padwick2010worldview}
-Padwick C, Deskevich M, Pacifici F, et al.
-\newblock WorldView-2 pan-sharpening[A].
+\bibitem[Liu et al.(2017)]{liuhigh}
+Liu Z, Yuan L, Weng L, et al.
+\newblock A high resolution optical satellite image dataset for ship
+  recognition and some new baselines[A].
 \newblock
-\newblock In: Proceedings of the ASPRS 2010 Annual Conference, San Diego, CA,
-  USA[C], 2010. 2630:1--14.
+\newblock In: International conference on pattern recognition applications and
+  methods[C], 2017. 2:324--331.
 
-\bibitem[Kruse and Perry(2013)]{kruse2013mineral}
-Kruse F~A, Perry S~L.
-\newblock Mineral mapping using simulated Worldview-3 short-wave-infrared
-  imagery[J].
-\newblock Remote Sensing, 2013, 5(6):2688--2703.
-
-\bibitem[Harris et al.(1988)]{harris1988combined}
-Harris C~G, Stephens M, et al.
-\newblock A combined corner and edge detector.[A].
+\bibitem[Xia et al.(2018){\natexlab{a}}]{xiadota}
+Xia G~S, Bai X, Ding J, et al.
+\newblock DOTA: A large-scale dataset for object detection in aerial images[A].
 \newblock
-\newblock In: Alvey vision conference[C], 1988. 15:10--5244.
+\newblock In: Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition[C], 2018. 3974--3983.
 
-\bibitem[Lowe(2004)]{lowe2004distinctive}
-Lowe D~G.
-\newblock Distinctive image features from scale-invariant keypoints[J].
-\newblock International journal of computer vision, 2004, 60(2):91--110.
+\bibitem[Rabbi et al.(2020)]{rabbi}
+Rabbi J, Ray N, Schubert M, et al.
+\newblock Small-object detection in remote sensing images with end-to-end
+  edge-enhanced GAN and object detector network[J].
+\newblock Remote Sensing, 2020, 12(9):1432.
 
-\bibitem[Mikolajczyk and Schmid(2005)]{mikolajczyk2005performance}
-Mikolajczyk K, Schmid C.
-\newblock A performance evaluation of local descriptors[J].
-\newblock IEEE transactions on pattern analysis and machine intelligence, 2005,
-  27(10):1615--1630.
-
-\bibitem[Bay et al.(2008)]{bay2008speeded}
-Bay H, Ess A, Tuytelaars T, et al.
-\newblock Speeded-up robust features (SURF)[J].
-\newblock Computer vision and image understanding, 2008, 110(3):346--359.
-
-\bibitem[Dalal and Triggs(2005)]{dalal2005histograms}
-Dalal N, Triggs B.
-\newblock Histograms of oriented gradients for human detection[A].
-\newblock
-\newblock In: 2005 IEEE computer society conference on computer vision and
-  pattern recognition (CVPR'05)[C], 2005. 1:886--893.
-
-\bibitem[Viola et al.(2001)]{viola2001robust}
-Viola P, Jones M, et al.
-\newblock Robust real-time object detection[J].
-\newblock International journal of computer vision, 2001, 4(34-47):4.
-
-\bibitem[Noble(2006)]{noble2006support}
-Noble W~S.
-\newblock What is a support vector machine?[J].
-\newblock Nature biotechnology, 2006, 24(12):1565--1567.
-
-\bibitem[Girshick et al.(2014)]{girshick2014rich}
-Girshick R, Donahue J, Darrell T, et al.
-\newblock Rich feature hierarchies for accurate object detection and semantic
-  segmentation[A].
-\newblock
-\newblock In: Proceedings of the IEEE conference on computer vision and pattern
-  recognition[C], 2014. 580--587.
-
-\bibitem[LeCun et al.(1998)]{lecun1998gradient}
-LeCun Y, Bottou L, Bengio Y, et al.
-\newblock Gradient-based learning applied to document recognition[J].
-\newblock Proceedings of the IEEE, 1998, 86(11):2278--2324.
-
-\bibitem[He et al.(2015)]{he2015spatial}
-He K, Zhang X, Ren S, et al.
-\newblock Spatial pyramid pooling in deep convolutional networks for visual
-  recognition[J].
-\newblock IEEE transactions on pattern analysis and machine intelligence, 2015,
-  37(9):1904--1916.
-
-\bibitem[Girshick(2015)]{girshick2015fast}
-Girshick R.
-\newblock Fast r-cnn[A].
-\newblock
-\newblock In: Proceedings of the IEEE international conference on computer
-  vision[C], 2015. 1440--1448.
-
-\bibitem[Ren et al.(2015)]{ren2015faster}
-Ren S, He K, Girshick R, et al.
-\newblock Faster r-cnn: Towards real-time object detection with region proposal
-  networks[J].
-\newblock arXiv preprint arXiv:1506.01497, 2015.
-
-\bibitem[Dai et al.(2016)]{dai2016r}
-Dai J, Li Y, He K, et al.
-\newblock R-fcn: Object detection via region-based fully convolutional
-  networks[J].
-\newblock arXiv preprint arXiv:1605.06409, 2016.
-
-\bibitem[Li et al.(2017){\natexlab{a}}]{li2017light}
-Li Z, Peng C, Yu G, et al.
-\newblock Light-head r-cnn: In defense of two-stage object detector[J].
-\newblock arXiv preprint arXiv:1711.07264, 2017.
-
-\bibitem[Lin et al.(2017){\natexlab{a}}]{lin2017feature}
-Lin T~Y, Doll{\'a}r P, Girshick R, et al.
-\newblock Feature pyramid networks for object detection[A].
-\newblock
-\newblock In: Proceedings of the IEEE conference on computer vision and pattern
-  recognition[C], 2017. 2117--2125.
-
-\bibitem[He et al.(2017)]{he2017mask}
-He K, Gkioxari G, Doll{\'a}r P, et al.
-\newblock Mask r-cnn[A].
-\newblock
-\newblock In: Proceedings of the IEEE international conference on computer
-  vision[C], 2017. 2961--2969.
-
-\bibitem[Cai and Vasconcelos(2018)]{cai2018cascade}
-Cai Z, Vasconcelos N.
-\newblock Cascade r-cnn: Delving into high quality object detection[A].
-\newblock
-\newblock In: Proceedings of the IEEE conference on computer vision and pattern
-  recognition[C], 2018. 6154--6162.
-
-\bibitem[Liu et al.(2018)]{liu2018path}
-Liu S, Qi L, Qin H, et al.
-\newblock Path aggregation network for instance segmentation[A].
-\newblock
-\newblock In: Proceedings of the IEEE conference on computer vision and pattern
-  recognition[C], 2018. 8759--8768.
-
-\bibitem[Sermanet et al.(2013)]{sermanet2013overfeat}
-Sermanet P, Eigen D, Zhang X, et al.
-\newblock Overfeat: Integrated recognition, localization and detection using
-  convolutional networks[J].
-\newblock arXiv preprint arXiv:1312.6229, 2013.
-
-\bibitem[Redmon et al.(2016)]{redmon2016you}
-Redmon J, Divvala S, Girshick R, et al.
-\newblock You only look once: Unified, real-time object detection[A].
-\newblock
-\newblock In: Proceedings of the IEEE conference on computer vision and pattern
-  recognition[C], 2016. 779--788.
-
-\bibitem[Liu et al.(2016){\natexlab{a}}]{liu2016ssd}
-Liu W, Anguelov D, Erhan D, et al.
-\newblock Ssd: Single shot multibox detector[A].
-\newblock
-\newblock In: European conference on computer vision[C], 2016. 21--37.
-
-\bibitem[Lin et al.(2017){\natexlab{b}}]{lin2017focal}
-Lin T~Y, Goyal P, Girshick R, et al.
-\newblock Focal loss for dense object detection[A].
-\newblock
-\newblock In: Proceedings of the IEEE international conference on computer
-  vision[C], 2017. 2980--2988.
-
-\bibitem[Law and Deng(2018)]{law2018cornernet}
-Law H, Deng J.
-\newblock Cornernet: Detecting objects as paired keypoints[A].
-\newblock
-\newblock In: Proceedings of the European conference on computer vision
-  (ECCV)[C], 2018. 734--750.
-
-\bibitem[Cheng et al.(2016)]{cheng2016learning}
-Cheng G, Zhou P, Han J.
-\newblock Learning rotation-invariant convolutional neural networks for object
-  detection in VHR optical remote sensing images[J].
-\newblock IEEE Transactions on Geoscience and Remote Sensing, 2016,
-  54(12):7405--7415.
-
-\bibitem[Cheng et al.(2018)]{cheng2018learning}
-Cheng G, Han J, Zhou P, et al.
-\newblock Learning rotation-invariant and fisher discriminative convolutional
-  neural networks for object detection[J].
-\newblock IEEE Transactions on Image Processing, 2018, 28(1):265--278.
-
-\bibitem[Dai et al.(2017)]{dai2017deformable}
-Dai J, Qi H, Xiong Y, et al.
-\newblock Deformable convolutional networks[A].
-\newblock
-\newblock In: Proceedings of the IEEE international conference on computer
-  vision[C], 2017. 764--773.
-
-\bibitem[Xu et al.(2017)]{xu2017deformable}
-Xu Z, Xu X, Wang L, et al.
-\newblock Deformable convnet with aspect ratio constrained nms for object
-  detection in remote sensing imagery[J].
-\newblock Remote Sensing, 2017, 9(12):1312.
-
-\bibitem[Zhong et al.(2018)]{zhong2018multi}
-Zhong Y, Han X, Zhang L.
-\newblock Multi-class geospatial object detection based on a position-sensitive
-  balancing framework for high spatial resolution remote sensing imagery[J].
-\newblock ISPRS journal of photogrammetry and remote sensing, 2018,
-  138:281--294.
-
-\bibitem[Yang et al.(2018){\natexlab{a}}]{yang2018automatic}
-Yang X, Sun H, Fu K, et al.
-\newblock Automatic ship detection in remote sensing images from google earth
-  of complex scenes based on multiscale rotation dense feature pyramid
-  networks[J].
-\newblock Remote Sensing, 2018, 10(1):132.
-
-\bibitem[Ding et al.(2019)]{ding2019learning}
-Ding J, Xue N, Long Y, et al.
-\newblock Learning roi transformer for oriented object detection in aerial
-  images[A].
-\newblock
-\newblock In: Proceedings of the IEEE/CVF Conference on Computer Vision and
-  Pattern Recognition[C], 2019. 2849--2858.
-
-\bibitem[Yang et al.(2018){\natexlab{b}}]{yang2018r2cnn++}
-Yang X, Fu K, Sun H, et al.
-\newblock R2CNN++: Multi-dimensional attention based rotation invariant
-  detector with robust anchor strategy[J].
-\newblock arXiv preprint arXiv:1811.07126, 2018, 2:7.
-
-\bibitem[Yang et al.(2019){\natexlab{a}}]{yang2019scrdet}
-Yang X, Yang J, Yan J, et al.
-\newblock Scrdet: Towards more robust detection for small, cluttered and
-  rotated objects[A].
-\newblock
-\newblock In: Proceedings of the IEEE/CVF International Conference on Computer
-  Vision[C], 2019. 8232--8241.
-
-\bibitem[Xu et al.(2020)]{xu2020gliding}
-Xu Y, Fu M, Wang Q, et al.
-\newblock Gliding vertex on the horizontal bounding box for multi-oriented
-  object detection[J].
-\newblock IEEE transactions on pattern analysis and machine intelligence, 2020.
-
-\bibitem[Yang et al.(2019){\natexlab{b}}]{yang2019r3det}
-Yang X, Liu Q, Yan J, et al.
-\newblock R3det: Refined single-stage detector with feature refinement for
-  rotating object[J].
-\newblock arXiv preprint arXiv:1908.05612, 2019.
-
-\bibitem[Han et al.(2021)]{han2021align}
-Han J, Ding J, Li J, et al.
-\newblock Align deep features for oriented object detection[J].
-\newblock IEEE Transactions on Geoscience and Remote Sensing, 2021.
-
-\bibitem[Rosenblatt(1958)]{rosenblatt1958perceptron}
-Rosenblatt F.
-\newblock The perceptron: a probabilistic model for information storage and
-  organization in the brain.[J].
-\newblock Psychological review, 1958, 65(6):386.
-
-\bibitem[Rumelhart et al.(1986)]{rumelhart1986learning}
-Rumelhart D~E, Hinton G~E, Williams R~J.
-\newblock Learning representations by back-propagating errors[J].
-\newblock nature, 1986, 323(6088):533--536.
-
-\bibitem[Hinton et al.(2006)]{hinton2006fast}
-Hinton G~E, Osindero S, Teh Y~W.
-\newblock A fast learning algorithm for deep belief nets[J].
-\newblock Neural computation, 2006, 18(7):1527--1554.
-
-\bibitem[Krizhevsky et al.(2012)]{krizhevsky2012imagenet}
-Krizhevsky A, Sutskever I, Hinton G~E.
-\newblock Imagenet classification with deep convolutional neural networks[J].
-\newblock Advances in neural information processing systems, 2012,
-  25:1097--1105.
-
-\bibitem[Deng et al.(2009)]{deng2009imagenet}
-Deng J, Dong W, Socher R, et al.
-\newblock Imagenet: A large-scale hierarchical image database[A].
-\newblock
-\newblock In: 2009 IEEE conference on computer vision and pattern
-  recognition[C], 2009. 248--255.
-
-\bibitem[Srivastava et al.(2014)]{srivastava2014dropout}
-Srivastava N, Hinton G, Krizhevsky A, et al.
-\newblock Dropout: a simple way to prevent neural networks from overfitting[J].
-\newblock The journal of machine learning research, 2014, 15(1):1929--1958.
-
-\bibitem[Parkhi et al.(2015)]{parkhi2015deep}
-Parkhi O~M, Vedaldi A, Zisserman A.
-\newblock Deep face recognition[J].
-\newblock 2015.
-
-\bibitem[Silver et al.(2016)]{silver2016mastering}
-Silver D, Huang A, Maddison C~J, et al.
-\newblock Mastering the game of Go with deep neural networks and tree
-  search[J].
-\newblock nature, 2016, 529(7587):484--489.
-
-\bibitem[Lin et al.(2014)]{lin2014microsoft}
-Lin T~Y, Maire M, Belongie S, et al.
-\newblock Microsoft coco: Common objects in context[A].
-\newblock
-\newblock In: European conference on computer vision[C], 2014. 740--755.
-
-\bibitem[Hochreiter and Schmidhuber(1997)]{hochreiter1997long}
-Hochreiter S, Schmidhuber J.
-\newblock Long short-term memory[J].
-\newblock Neural computation, 1997, 9(8):1735--1780.
-
-\bibitem[Wiering and Van~Otterlo(2012)]{wiering2012reinforcement}
-Wiering M, Van~Otterlo M.
-\newblock Reinforcement learning[J].
-\newblock Adaptation, learning, and optimization, 2012, 12(3).
-
-\bibitem[He et al.(2016)]{he2016identity}
-He K, Zhang X, Ren S, et al.
-\newblock Identity mappings in deep residual networks[A].
-\newblock
-\newblock In: European conference on computer vision[C], 2016. 630--645.
-
-\bibitem[Bodla et al.(2017)]{bodla2017soft}
-Bodla N, Singh B, Chellappa R, et al.
-\newblock Soft-NMS--improving object detection with one line of code[A].
-\newblock
-\newblock In: Proceedings of the IEEE international conference on computer
-  vision[C], 2017. 5561--5569.
-
-\bibitem[Li et al.(2017){\natexlab{b}}]{li2017rotation}
+\bibitem[Li et al.(2017)]{li2017rotation}
 Li K, Cheng G, Bu S, et al.
 \newblock Rotation-insensitive and context-augmented object detection in remote
   sensing images[J].
 \newblock IEEE Transactions on Geoscience and Remote Sensing, 2017,
   56(4):2337--2348.
 
-\bibitem[Xia et al.(2018)]{xia2018dota}
+\bibitem[Xia et al.(2018){\natexlab{b}}]{xia2018dota}
 Xia G~S, Bai X, Ding J, et al.
 \newblock DOTA: A large-scale dataset for object detection in aerial images[A].
 \newblock
@@ -357,15 +48,76 @@ Hu J, Shen L, Sun G.
 \newblock In: Proceedings of the IEEE conference on computer vision and pattern
   recognition[C], 2018. 7132--7141.
 
-\bibitem[Liu et al.(2016){\natexlab{b}}]{liu2016ship}
-Liu Z, Wang H, Weng L, et al.
-\newblock Ship rotated bounding box space for ship extraction from
-  high-resolution optical satellite images with complex backgrounds[J].
-\newblock IEEE Geoscience and Remote Sensing Letters, 2016, 13(8):1074--1078.
-
 \bibitem[Yu and Koltun(2015)]{yu2015multi}
 Yu F, Koltun V.
 \newblock Multi-scale context aggregation by dilated convolutions[J].
 \newblock arXiv preprint arXiv:1511.07122, 2015.
+
+\bibitem[Dai et al.(2017)]{21dai2017deformable}
+Dai J, Qi H, Xiong Y, et al.
+\newblock Deformable convolutional networks[A].
+\newblock
+\newblock In: Proceedings of the IEEE international conference on computer
+  vision[C], 2017. 764--773.
+
+\bibitem[Cai and Vasconcelos(2018)]{35cai2018cascade}
+Cai Z, Vasconcelos N.
+\newblock Cascade r-cnn: Delving into high quality object detection[A].
+\newblock
+\newblock In: Proceedings of the IEEE conference on computer vision and pattern
+  recognition[C], 2018. 6154--6162.
+
+\bibitem[周兵 et al.(2018)]{31周兵2018图像复杂度研究综述}
+周兵, 刘玉霞, 杨欣欣, et al.
+\newblock 图像复杂度研究综述[J].
+\newblock 计算机科学, 2018, 45(9):30--37.
+
+\bibitem[Haralick et al.(1973)]{34haralick1973textural}
+Haralick R~M, Shanmugam K, Dinstein I~H.
+\newblock Textural features for image classification[J].
+\newblock IEEE Transactions on systems, man, and cybernetics, 1973(6):610--621.
+
+\bibitem[Baraldi and Panniggiani(1995)]{39baraldi1995investigation}
+Baraldi A, Panniggiani F.
+\newblock An investigation of the textural characteristics associated with gray
+  level cooccurrence matrix statistical parameters[J].
+\newblock IEEE transactions on geoscience and remote sensing, 1995,
+  33(2):293--304.
+
+\bibitem[高程程 and
+  惠晓威(2010)]{40高程程2010基于灰度共生矩阵的纹理特征提取}
+高程程, 惠晓威.
+\newblock 基于灰度共生矩阵的纹理特征提取[J].
+\newblock 计算机系统应用, 2010, 19(6):195--198.
+
+\bibitem[Oleiwi(2018)]{41oleiwi2018alzheimer}
+Oleiwi W~K.
+\newblock Alzheimer Disease Diagnosis using the K-means,‎ GLCM and K\_NN[J].
+\newblock Journal of University of Babylon for Pure and Applied Sciences, 2018,
+  26(2):57--65.
+
+\bibitem[Vidyashanakara and Kumar(2018)]{42vidyashanakara2018leaf}
+Vidyashanakara N~M, Kumar G~H.
+\newblock Leaf classification based on GLCM texture and SVM[J].
+\newblock International Journal on Future Revolution in Computer Science \&
+  Communication Engineering, 2018, 4(3):156--159.
+
+\bibitem[钟宝江 et al.(2016)]{43钟宝江2016图像插值技术综述}
+钟宝江, 陆志芳, 季家欢.
+\newblock 图像插值技术综述[J].
+\newblock 数据采集与处理, 2016, 31(6):1083--1096.
+
+\bibitem[Goodfellow et al.(2014)]{44goodfellow2014generative}
+Goodfellow I~J, Pouget-Abadie J, Mirza M, et al.
+\newblock Generative adversarial networks[J].
+\newblock arXiv preprint arXiv:1406.2661, 2014.
+
+\bibitem[Ledig et al.(2017)]{45ledig2017photo}
+Ledig C, Theis L, Husz{\'a}r F, et al.
+\newblock Photo-realistic single image super-resolution using a generative
+  adversarial network[A].
+\newblock
+\newblock In: Proceedings of the IEEE conference on computer vision and pattern
+  recognition[C], 2017. 4681--4690.
 
 \end{thebibliography}
