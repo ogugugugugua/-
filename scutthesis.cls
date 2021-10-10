@@ -40,7 +40,7 @@
 \def \supervisor#1{\gdef\@supervisor{#1}}
 %%\ifmasterdegree \newcommand{\@degree}{硕士} \else \newcommand{\@degree}{硕士} \fi
 %%\newcommand{\thesissubject}{华南理工大学\@degree{}学位论文}
-\newcommand{\thesissubject}{多尺度遥感图像目标自动检测与识别技术研究课题报告}
+\newcommand{\thesissubject}{多尺度遥感图像目标自动检测与识别技术研究技术文档}
 \renewcommand{\today}{\the\year~年~\the\month~月~\the\day~日}
 
 %% 加载几个常用的sty packages

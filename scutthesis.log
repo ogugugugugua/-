@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.5)  8 OCT 2021 20:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.10.5)  10 OCT 2021 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1414,68 +1414,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 [40
 
-] [41]
-
-Package natbib Warning: Citation `yang2018automatic' on page 42 undefined on in
-put line 911.
-
-
-Package natbib Warning: Citation `ding2019learning' on page 42 undefined on inp
-ut line 911.
-
-
-Package natbib Warning: Citation `yang2018r2cnn++' on page 42 undefined on inpu
-t line 911.
-
-
-Package natbib Warning: Citation `yang2019scrdet' on page 42 undefined on input
- line 911.
-
-
-Package natbib Warning: Citation `yang2019r3det' on page 42 undefined on input 
-line 911.
-
-
-Package natbib Warning: Citation `yang2018automatic' on page 42 undefined on in
-put line 932.
-
-
-Package natbib Warning: Citation `ding2019learning' on page 42 undefined on inp
-ut line 932.
-
-
-Package natbib Warning: Citation `yang2018r2cnn++' on page 42 undefined on inpu
-t line 932.
-
-
-Package natbib Warning: Citation `yang2019scrdet' on page 42 undefined on input
- line 932.
-
-
-Package natbib Warning: Citation `yang2019r3det' on page 42 undefined on input 
-line 932.
-
-
-Package natbib Warning: Citation `yang2018automatic' on page 42 undefined on in
-put line 944.
-
-
-Package natbib Warning: Citation `ding2019learning' on page 42 undefined on inp
-ut line 944.
-
-
-Package natbib Warning: Citation `yang2018r2cnn++' on page 42 undefined on inpu
-t line 944.
-
-
-Package natbib Warning: Citation `yang2019scrdet' on page 42 undefined on input
- line 944.
-
-
-Package natbib Warning: Citation `yang2019r3det' on page 42 undefined on input 
-line 944.
-
-[42]
+] [41] [42]
 File: figure/3-8.eps Graphic file (type eps)
 <figure/3-8.eps>
  [43] [44]
@@ -1487,50 +1426,11 @@ File: figure/3-9.eps Graphic file (type eps)
 File: figure/4-6.eps Graphic file (type eps)
 <figure/4-6.eps>
  [46]
-
-Package natbib Warning: Citation `yang2018automatic' on page 47 undefined on in
-put line 1040.
-
-
-Package natbib Warning: Citation `ding2019learning' on page 47 undefined on inp
-ut line 1040.
-
-
-Package natbib Warning: Citation `yang2018r2cnn++' on page 47 undefined on inpu
-t line 1040.
-
-
-Package natbib Warning: Citation `yang2019scrdet' on page 47 undefined on input
- line 1040.
-
-
-Package natbib Warning: Citation `yang2019r3det' on page 47 undefined on input 
-line 1040.
-
 File: figure/4-7.eps Graphic file (type eps)
 <figure/4-7.eps>
 
+
 LaTeX Warning: Float too large for page by 2.03273pt on input line 1045.
-
-
-Package natbib Warning: Citation `yang2018automatic' on page 47 undefined on in
-put line 1058.
-
-
-Package natbib Warning: Citation `ding2019learning' on page 47 undefined on inp
-ut line 1058.
-
-
-Package natbib Warning: Citation `yang2018r2cnn++' on page 47 undefined on inpu
-t line 1058.
-
-
-Package natbib Warning: Citation `yang2019scrdet' on page 47 undefined on input
- line 1058.
-
-
-Package natbib Warning: Citation `yang2019r3det' on page 47 undefined on input 
-line 1058.
 
 File: figure/4-8.eps Graphic file (type eps)
 <figure/4-8.eps>
@@ -1555,20 +1455,16 @@ File: figure/F28.eps Graphic file (type eps)
 ] [58] (./scutthesis.bbl [59
 
 
-])
-
-Package natbib Warning: There were undefined citations.
-
-[60] (./scutthesis.aux)
+]) [60] (./scutthesis.aux)
 Package rerunfilecheck Info: File `scutthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 9D00AD2F9FAB826D475DA1AFC5D3B551;6842.
  ) 
 Here is how much of TeX's memory you used:
- 26776 strings out of 476493
- 483046 string characters out of 5820669
- 895451 words of memory out of 5000000
- 46740 multiletter control sequences out of 15000+600000
- 416991 words of font info for 124 fonts, out of 8000000 for 9000
+ 26786 strings out of 476493
+ 483218 string characters out of 5820669
+ 895576 words of memory out of 5000000
+ 46751 multiletter control sequences out of 15000+600000
+ 416983 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,17n,99p,2775b,792s stack positions out of 5000i,500n,10000p,200000b,80000s
 

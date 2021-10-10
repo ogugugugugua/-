@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{22}
 \setlength{\itemsep}{1ex}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -52,13 +52,6 @@ Hu J, Shen L, Sun G.
 Yu F, Koltun V.
 \newblock Multi-scale context aggregation by dilated convolutions[J].
 \newblock arXiv preprint arXiv:1511.07122, 2015.
-
-\bibitem[Dai et al.(2017)]{21dai2017deformable}
-Dai J, Qi H, Xiong Y, et al.
-\newblock Deformable convolutional networks[A].
-\newblock
-\newblock In: Proceedings of the IEEE international conference on computer
-  vision[C], 2017. 764--773.
 
 \bibitem[Cai and Vasconcelos(2018)]{35cai2018cascade}
 Cai Z, Vasconcelos N.
@@ -119,5 +112,40 @@ Ledig C, Theis L, Husz{\'a}r F, et al.
 \newblock
 \newblock In: Proceedings of the IEEE conference on computer vision and pattern
   recognition[C], 2017. 4681--4690.
+
+\bibitem[Yang et al.(2018){\natexlab{a}}]{yang2018automatic}
+Yang X, Sun H, Fu K, et al.
+\newblock Automatic ship detection in remote sensing images from google earth
+  of complex scenes based on multiscale rotation dense feature pyramid
+  networks[J].
+\newblock Remote Sensing, 2018, 10(1):132.
+
+\bibitem[Ding et al.(2019)]{ding2019learning}
+Ding J, Xue N, Long Y, et al.
+\newblock Learning roi transformer for oriented object detection in aerial
+  images[A].
+\newblock
+\newblock In: Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition[C], 2019. 2849--2858.
+
+\bibitem[Yang et al.(2018){\natexlab{b}}]{yang2018r2cnn++}
+Yang X, Fu K, Sun H, et al.
+\newblock R2CNN++: Multi-dimensional attention based rotation invariant
+  detector with robust anchor strategy[J].
+\newblock arXiv preprint arXiv:1811.07126, 2018, 2:7.
+
+\bibitem[Yang et al.(2019){\natexlab{a}}]{yang2019scrdet}
+Yang X, Yang J, Yan J, et al.
+\newblock Scrdet: Towards more robust detection for small, cluttered and
+  rotated objects[A].
+\newblock
+\newblock In: Proceedings of the IEEE/CVF International Conference on Computer
+  Vision[C], 2019. 8232--8241.
+
+\bibitem[Yang et al.(2019){\natexlab{b}}]{yang2019r3det}
+Yang X, Liu Q, Yan J, et al.
+\newblock R3det: Refined single-stage detector with feature refinement for
+  rotating object[J].
+\newblock arXiv preprint arXiv:1908.05612, 2019.
 
 \end{thebibliography}
